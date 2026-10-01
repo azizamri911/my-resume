@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Abdulaziz Alamri - Resume</title>
+</head>
+<body>
+
+    <header>
+        <h1>Abdulaziz Alamri</h1>
+        <p>Email: azzoamri@gmail.com</p>
+        <p>Phone: 0564084622</p>
+        <p>Location: Saudi Arabia</p>
+    </header>
+
+    <hr>
+
+    <section>
+        <h2>Profile</h2>
+        <p>
+            A motivated Management Information Systems student with an interest in
+            technology, business, and information systems. I am cheerful, social,
+            and detail-oriented, and I enjoy learning new skills and working on
+            practical projects that solve real-world problems.
+        </p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <h3>Prince Mohammad Bin Fahd University (PMU)</h3>
+        <p>Bachelor's Degree in Management Information Systems (MIS)</p>
+        <p>Saudi Arabia</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Management Information Systems</li>
+            <li>Database Fundamentals</li>
+            <li>System Analysis and Design</li>
+            <li>Microsoft Office</li>
+            <li>Problem Solving</li>
+            <li>Communication and Teamwork</li>
+            <li>HTML Fundamentals</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Experience / Projects</h2>
+
+        <h3>Database Project</h3>
+        <p>
+            Worked on a beginner database project involving data organization,
+            database concepts, and practical information management.
+        </p>
+
+        <h3>Personal Finance Website Concept</h3>
+        <p>
+            Developed a concept for a website that helps users organize personal
+            expenses such as food, rent, bills, and other spending categories.
+        </p>
+
+        <h3>MIS Club Activities</h3>
+        <p>
+            Participated in university activities related to the Management
+            Information Systems Club and contributed to preparation and teamwork.
+        </p>
+    </section>
+
+    <section>
+        <h2>Certifications / Activities</h2>
+        <ul>
+            <li>Participated in university activities and student projects.</li>
+            <li>Won a prize in a Seerah (Prophetic Biography) activity.</li>
+            <li>Volunteered in preparing meals for people who were fasting.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>References</h2>
+        <p>Available upon request.</p>
+    </section>
+
+    <footer>
+        <hr>
+        <p>Resume of Abdulaziz Alamri</p>
+    </footer>
+
+</body>
+</html>
